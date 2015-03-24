@@ -119,6 +119,10 @@ public class RequestThread extends Thread {
 					// Status status = twitter.updateStatus("Try this tweet.");
 
 					String id = "custom-549647846786347008";
+					int collectionIdIdx = path.indexOf("custom-");
+					if (collectionIdIdx > 0){
+						id = path.substring(collectionIdIdx);
+					}
 					List<Status> statuses = twitter.getCustomTimeline(id);
 
 					sendHeader(out, 200, "text/html", -1,
