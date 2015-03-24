@@ -27,11 +27,13 @@ import java.io.InputStreamReader;
 import java.net.Socket;
 import java.net.URLDecoder;
 import java.util.Date;
+import java.util.List;
 
 import twitter4j.Status;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
 import twitter4j.TwitterFactory;
+import twitter4j.User;
 import twitter4j.conf.ConfigurationBuilder;
 
 /**
@@ -43,13 +45,13 @@ public class RequestThread extends Thread {
 	static ConfigurationBuilder CB = new ConfigurationBuilder();
 	static {
 		CB.setDebugEnabled(true)
-				.setOAuthConsumerKey("swxhGvbLpahJY9pjFPsXqZqb1")
+				.setOAuthConsumerKey("GQyCKJBmiufakgJ7P5T1eAsxV")
 				.setOAuthConsumerSecret(
-						"aERzxtfqjrBINZjhMFAi9CItBzQu2HFfiy0WnVYveZxJ5RNzch")
+						"Hmwv71tVYpHOSOrNT7w0WGdb71JG5Wgxcfo3Gn2qDlhmbtWs2w")
 				.setOAuthAccessToken(
-						"54256387-fFeDAAUm2q7fNUz54DPLLdtKYaPZHMtcdS1NUmqd0")
+						"54256387-TFUcMqAJdEMDWjyMOmsXMhyi4B95cxakSfF3aQ6tv")
 				.setOAuthAccessTokenSecret(
-						"YBJl9WZVbiHKvfdSDJAGxjhc4iSgsMd7sWNAUFgEuNFZT");
+						"d45FxNmL5NiVsO5EWzZhPECmqEycAwSMO5Jk8jebGBqbR");
 	}
 	static TwitterFactory TF = new TwitterFactory(CB.build());
 
@@ -112,10 +114,39 @@ public class RequestThread extends Thread {
 
 				Twitter twitter = TF.getInstance();
 				try {
-					Status status = twitter.updateStatus("Try this tweet.");
+
+					// Uncomment to send tweet and test credentials
+					// Status status = twitter.updateStatus("Try this tweet.");
+
+					String id = "custom-549647846786347008";
+					List<Status> statuses = twitter.getCustomTimeline(id);
+
 					sendHeader(out, 200, "text/html", -1,
 							System.currentTimeMillis());
-					out.write("Tweet tweet.".getBytes());
+
+					String title = "Tweets for '" + id + "'";
+					out.write(("<html><head><title>" + title
+							+ "</title></head><body><h3>" + title + "</h3><p>\n")
+							.getBytes());
+
+					for (int i = 0; i < statuses.size(); i++) {
+						Status status = statuses.get(i);
+						User user = status.getUser();
+						String blockquote = "<blockquote class=\"twitter-tweet\" lang=\"en\"><p>"
+								+ status.getText()
+								+ "</p>&mdash; "
+								+ user.getName()
+								+ " ("
+								+ user.getScreenName()
+								+ ") <a href=\"https://twitter.com/"
+								+ user.getScreenName()
+								+ "/status/"
+								+ status.getId() + "\">DATE5</a></blockquote>";
+						out.write((blockquote + "<br>\n").getBytes());
+
+					}
+					out.write(("</p><hr><p>" + SimpleWebServer.VERSION + "</p><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></body><html>")
+							.getBytes());
 
 				} catch (TwitterException e) {
 					sendError(out, 500, "Invalid Method.");

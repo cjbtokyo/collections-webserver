@@ -1,0 +1,3671 @@
+{
+  "response": {
+    "position": {
+      "was_truncated": false,
+      "max_position": "372871330617565440",
+      "min_position": "372871330177209856"
+    },
+    "timeline": [
+      {
+        "tweet": {
+          "id": "560163706198573056",
+          "sort_index": "372871330617565440"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "552186827273428993",
+          "sort_index": "372871330579500032"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "546569262245367808",
+          "sort_index": "372871330398425088"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "546602380029341696",
+          "sort_index": "372871330384953088"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "546892979060088832",
+          "sort_index": "372871330369456384"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "533709879614398464",
+          "sort_index": "372871330356364800"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "549274994363355136",
+          "sort_index": "372871330341891840"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "548877503293837312",
+          "sort_index": "372871330328608000"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "548878569364287488",
+          "sort_index": "372871330314619136"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "423203995893506049",
+          "sort_index": "372871330300708608"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "545609598879940608",
+          "sort_index": "372871330285663744"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "546297986754809857",
+          "sort_index": "372871330271451648"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "546426068471939072",
+          "sort_index": "372871330257773568"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "547178234690150401",
+          "sort_index": "372871330244304128"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "548877793187344384",
+          "sort_index": "372871330231076096"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "549568456266620931",
+          "sort_index": "372871330211383296"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "546589389972070400",
+          "sort_index": "372871330191374848"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      },
+      {
+        "tweet": {
+          "id": "546673979784982530",
+          "sort_index": "372871330177209856"
+        },
+        "feature_context": "HBgGY3VzdG9tFoDAkbS-896gDwAA"
+      }
+    ],
+    "timeline_id": "custom-549647846786347008"
+  },
+  "objects": {
+    "users": {
+      "1257992329": {
+        "location": "DC",
+        "default_profile": true,
+        "profile_background_tile": false,
+        "statuses_count": 14104,
+        "lang": "en",
+        "profile_link_color": "0084B4",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257992329/1426000250",
+        "id": 1257992329,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 19667,
+        "profile_text_color": "333333",
+        "description": "UCONN graduate with a passion for details.\nRestaurant junkie. For recess and music programs. Art lover (not an artist). And, for travel...lots of travel.",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "name": "Michi Wilson",
+        "profile_background_color": "C0DEED",
+        "created_at": "Sun Mar 10 21:19:46 +0000 2013",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 699,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575310244613652480/oygUd3o2_normal.jpeg",
+        "geo_enabled": true,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "url": null,
+        "utc_offset": null,
+        "time_zone": null,
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 586,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "screen_name": "MichiWils",
+        "id_str": "1257992329",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575310244613652480/oygUd3o2_normal.jpeg",
+        "listed_count": 43,
+        "is_translator": false
+      },
+      "263375851": {
+        "location": "Raleigh, NC",
+        "default_profile": false,
+        "profile_background_tile": true,
+        "statuses_count": 12505,
+        "lang": "en",
+        "profile_link_color": "000000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/263375851/1421465279",
+        "id": 263375851,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 4121,
+        "profile_text_color": "333333",
+        "description": "A Premier Music Website // Giving you free music daily // Your top hip-hop and music source // Send music: collegeofmusic22@gmail.com // Founded by @Nora_TheCOM",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "FFFFFF",
+        "name": "College-Of-Music.com",
+        "profile_background_color": "C0DEED",
+        "created_at": "Wed Mar 09 22:52:06 +0000 2011",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 9378,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000634958623/5de54ad16fdd007d4d2cb9728c87cc00_normal.jpeg",
+        "geo_enabled": false,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/860119419/80183c3f84f3eea7d1534a4b0b6cd6e9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/860119419/80183c3f84f3eea7d1534a4b0b6cd6e9.jpeg",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "expanded_url": "http://www.college-of-music.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "display_url": "college-of-music.com",
+                "url": "http://t.co/zHcDCgNX4A"
+              }
+            ]
+          }
+        },
+        "url": "http://t.co/zHcDCgNX4A",
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 2536,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "screen_name": "CollegeOfMusic2",
+        "id_str": "263375851",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000634958623/5de54ad16fdd007d4d2cb9728c87cc00_normal.jpeg",
+        "listed_count": 56,
+        "is_translator": false
+      },
+      "1372636412": {
+        "location": "Texas",
+        "default_profile": false,
+        "profile_background_tile": true,
+        "statuses_count": 4904,
+        "lang": "en",
+        "profile_link_color": "000000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1372636412/1396922116",
+        "id": 1372636412,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 17,
+        "profile_text_color": "ED2F2F",
+        "description": "A passionate, vibrant, and independent woman is much more beautiful than one who waits for someone else to validate her existence.",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "000000",
+        "name": "Passioned Rage",
+        "profile_background_color": "1A1B1F",
+        "created_at": "Mon Apr 22 17:20:36 +0000 2013",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 133,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453350436473303040/RR4MXhj9_normal.png",
+        "geo_enabled": false,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000159404938/VuPIZfEw.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000159404938/VuPIZfEw.jpeg",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "expanded_url": "http://www.passionedrage.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "display_url": "passionedrage.com",
+                "url": "http://t.co/p9nMqHopnS"
+              }
+            ]
+          }
+        },
+        "url": "http://t.co/p9nMqHopnS",
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 165,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "screen_name": "passionedrage",
+        "id_str": "1372636412",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453350436473303040/RR4MXhj9_normal.png",
+        "listed_count": 5,
+        "is_translator": false
+      },
+      "2851178843": {
+        "location": "",
+        "default_profile": true,
+        "profile_background_tile": false,
+        "statuses_count": 999,
+        "lang": "en-gb",
+        "profile_link_color": "0084B4",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2851178843/1415622194",
+        "id": 2851178843,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 27,
+        "profile_text_color": "333333",
+        "description": "Best street art for the street art lovers from Niume",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "name": "Niume Streetart",
+        "profile_background_color": "C0DEED",
+        "created_at": "Thu Oct 30 11:12:09 +0000 2014",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 6667,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/531783581677256706/1mKUL7kL_normal.jpeg",
+        "geo_enabled": false,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "expanded_url": "http://niume.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "display_url": "niume.com",
+                "url": "http://t.co/sKgDcoW0Bz"
+              }
+            ]
+          }
+        },
+        "url": "http://t.co/sKgDcoW0Bz",
+        "utc_offset": 0,
+        "time_zone": "London",
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 5614,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "screen_name": "niumestreetart",
+        "id_str": "2851178843",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/531783581677256706/1mKUL7kL_normal.jpeg",
+        "listed_count": 150,
+        "is_translator": false
+      },
+      "130863181": {
+        "location": "Chicago, IL",
+        "default_profile": false,
+        "profile_background_tile": false,
+        "statuses_count": 4090,
+        "lang": "en",
+        "profile_link_color": "0084B4",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130863181/1401807588",
+        "id": 130863181,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 248,
+        "profile_text_color": "333333",
+        "description": "The official account for #ChicagoBooth Evening & Weekend #MBAprograms providing admissions updates, insights, and assistance.",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "FFFFFF",
+        "name": "Chicago Booth",
+        "profile_background_color": "C0DEED",
+        "created_at": "Thu Apr 08 15:12:37 +0000 2010",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 2977,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/445957475959709696/Udhs5UAA_normal.jpeg",
+        "geo_enabled": false,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451820459009400832/-oiFZQM1.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451820459009400832/-oiFZQM1.jpeg",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "url": null,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 922,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "screen_name": "BoothEveWknd",
+        "id_str": "130863181",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/445957475959709696/Udhs5UAA_normal.jpeg",
+        "listed_count": 100,
+        "is_translator": false
+      },
+      "1969346438": {
+        "location": "Houston Texas",
+        "default_profile": true,
+        "profile_background_tile": false,
+        "statuses_count": 14743,
+        "lang": "en",
+        "profile_link_color": "0084B4",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1969346438/1427056032",
+        "id": 1969346438,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 20179,
+        "profile_text_color": "333333",
+        "description": "Astrophysicist, paleontologist, geologist, public speaker, playwright, engineer, artist, outspoken liberal, grandfather, and a fan of graffiti and Waffle House.",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "name": "John Moffitt",
+        "profile_background_color": "C0DEED",
+        "created_at": "Fri Oct 18 18:18:12 +0000 2013",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 23622,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/579740562451881984/21HlFQG0_normal.jpg",
+        "geo_enabled": true,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "url": null,
+        "utc_offset": null,
+        "time_zone": null,
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 24301,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "screen_name": "JohnRMoffitt",
+        "id_str": "1969346438",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/579740562451881984/21HlFQG0_normal.jpg",
+        "listed_count": 406,
+        "is_translator": false
+      },
+      "2782022756": {
+        "location": "Northampton, UK",
+        "default_profile": false,
+        "profile_background_tile": false,
+        "statuses_count": 24394,
+        "lang": "en",
+        "profile_link_color": "0084B4",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2782022756/1409480365",
+        "id": 2782022756,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 651,
+        "profile_text_color": "333333",
+        "description": "Web developer background, lover of design discipline in all kinds of fields - follow me for art and design finds on Twitter.",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "FFFFFF",
+        "name": "DesignerListings.org",
+        "profile_background_color": "FFFFFF",
+        "created_at": "Sun Aug 31 10:13:23 +0000 2014",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 17723,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/506023929190678528/EahbqSAb_normal.jpeg",
+        "geo_enabled": false,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "expanded_url": "http://www.designerlistings.org",
+                "indices": [
+                  0,
+                  22
+                ],
+                "display_url": "designerlistings.org",
+                "url": "http://t.co/SVvHA5Kz8t"
+              }
+            ]
+          }
+        },
+        "url": "http://t.co/SVvHA5Kz8t",
+        "utc_offset": null,
+        "time_zone": null,
+        "notifications": false,
+        "profile_use_background_image": false,
+        "friends_count": 16890,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "screen_name": "designopinion",
+        "id_str": "2782022756",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/506023929190678528/EahbqSAb_normal.jpeg",
+        "listed_count": 201,
+        "is_translator": false
+      },
+      "54256387": {
+        "location": "",
+        "default_profile": false,
+        "profile_background_tile": false,
+        "statuses_count": 1935,
+        "lang": "en",
+        "profile_link_color": "3B94D9",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54256387/1418883720",
+        "id": 54256387,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 3579,
+        "profile_text_color": "000000",
+        "description": "Dev advocate @twitter. Early eng at @salesforce, dir. eng @zuora & co-founder @thestyleup (YC13).",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "000000",
+        "name": "Ryan Choi",
+        "profile_background_color": "000000",
+        "created_at": "Mon Jul 06 16:38:08 +0000 2009",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 2305,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/554780342746230784/QBtLu31M_normal.jpeg",
+        "geo_enabled": true,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "expanded_url": "http://www.linkedin.com/in/ryankicks",
+                "indices": [
+                  0,
+                  22
+                ],
+                "display_url": "linkedin.com/in/ryankicks",
+                "url": "http://t.co/v1OcTJAB7J"
+              }
+            ]
+          }
+        },
+        "url": "http://t.co/v1OcTJAB7J",
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "notifications": false,
+        "profile_use_background_image": false,
+        "friends_count": 1080,
+        "profile_sidebar_fill_color": "000000",
+        "screen_name": "rchoi",
+        "id_str": "54256387",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/554780342746230784/QBtLu31M_normal.jpeg",
+        "listed_count": 51,
+        "is_translator": false
+      },
+      "84644257": {
+        "location": "Paris 13",
+        "default_profile": false,
+        "profile_background_tile": false,
+        "statuses_count": 7704,
+        "lang": "fr",
+        "profile_link_color": "0084B4",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/84644257/1401553555",
+        "id": 84644257,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 1276,
+        "profile_text_color": "333333",
+        "description": "Maire du 13e arrondissement de Paris - #paris13",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "A8C7F7",
+        "name": "Jérôme Coumet",
+        "profile_background_color": "022330",
+        "created_at": "Fri Oct 23 17:32:18 +0000 2009",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 3101,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/424116397602402304/MjmFUH9C_normal.jpeg",
+        "geo_enabled": true,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "expanded_url": "http://coumetj.typepad.fr/",
+                "indices": [
+                  0,
+                  22
+                ],
+                "display_url": "coumetj.typepad.fr",
+                "url": "http://t.co/CQylfSo3rY"
+              }
+            ]
+          }
+        },
+        "url": "http://t.co/CQylfSo3rY",
+        "utc_offset": 3600,
+        "time_zone": "Paris",
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 1050,
+        "profile_sidebar_fill_color": "C0DFEC",
+        "screen_name": "jerome_coumet",
+        "id_str": "84644257",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/424116397602402304/MjmFUH9C_normal.jpeg",
+        "listed_count": 128,
+        "is_translator": false
+      },
+      "713003123": {
+        "location": "",
+        "default_profile": true,
+        "profile_background_tile": false,
+        "statuses_count": 1646,
+        "lang": "en",
+        "profile_link_color": "0084B4",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/713003123/1411758635",
+        "id": 713003123,
+        "following": true,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 3518,
+        "profile_text_color": "333333",
+        "description": "Street Art, Murals, Art, Urban Art & Graffiti.",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "name": "Street Art",
+        "profile_background_color": "C0DEED",
+        "created_at": "Sun Oct 13 16:34:42 +0000 2013",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 51358,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/437143973766103040/EaYS9QgJ_normal.jpeg",
+        "geo_enabled": false,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "url": null,
+        "utc_offset": null,
+        "time_zone": null,
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 20212,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "screen_name": "GoogleStreetArt",
+        "id_str": "713003123",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/437143973766103040/EaYS9QgJ_normal.jpeg",
+        "listed_count": 1267,
+        "is_translator": false
+      },
+      "124121765": {
+        "location": "LYON",
+        "default_profile": false,
+        "profile_background_tile": false,
+        "statuses_count": 32279,
+        "lang": "fr",
+        "profile_link_color": "10806B",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124121765/1412417414",
+        "id": 124121765,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 7540,
+        "profile_text_color": "A327A3",
+        "description": "Hater assidu en milieu urbain. #Music #Party #RollerDerby",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "FFFFFF",
+        "name": "Damien T",
+        "profile_background_color": "1A1C17",
+        "created_at": "Thu Mar 18 09:43:12 +0000 2010",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 570,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/460475241567776769/38DMO9ig_normal.jpeg",
+        "geo_enabled": true,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/769649400/2f67809f1f634d30fb7ca7912abf1d56.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/769649400/2f67809f1f634d30fb7ca7912abf1d56.jpeg",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "expanded_url": "http://cestmastreetlife.tumblr.com/",
+                "indices": [
+                  0,
+                  22
+                ],
+                "display_url": "cestmastreetlife.tumblr.com",
+                "url": "http://t.co/AKT0KNkqPS"
+              }
+            ]
+          }
+        },
+        "url": "http://t.co/AKT0KNkqPS",
+        "utc_offset": 3600,
+        "time_zone": "Paris",
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 415,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "screen_name": "DamienOTrash",
+        "id_str": "124121765",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/460475241567776769/38DMO9ig_normal.jpeg",
+        "listed_count": 13,
+        "is_translator": false
+      },
+      "2588016847": {
+        "location": "New York City, NY",
+        "default_profile": false,
+        "profile_background_tile": false,
+        "statuses_count": 147585,
+        "lang": "en",
+        "profile_link_color": "050575",
+        "id": 2588016847,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 3,
+        "profile_text_color": "333333",
+        "description": "#Protip Download at http://t.co/bJSQs3qnCz & Follow @rememberlenny",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "C0DEED",
+        "name": "publicart.io",
+        "profile_background_color": "C0DEED",
+        "created_at": "Wed Jun 25 18:33:10 +0000 2014",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 4856,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/488723159697211392/C4v8FLrR_normal.png",
+        "geo_enabled": true,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "expanded_url": "http://publicart.io",
+                "indices": [
+                  20,
+                  42
+                ],
+                "display_url": "publicart.io",
+                "url": "http://t.co/bJSQs3qnCz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "expanded_url": "http://twitter.com/rememberlenny",
+                "indices": [
+                  0,
+                  22
+                ],
+                "display_url": "twitter.com/rememberlenny",
+                "url": "http://t.co/m0SxUS5UqQ"
+              }
+            ]
+          }
+        },
+        "url": "http://t.co/m0SxUS5UqQ",
+        "utc_offset": -10800,
+        "time_zone": "Atlantic Time (Canada)",
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 1,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "screen_name": "publicartfound",
+        "id_str": "2588016847",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/488723159697211392/C4v8FLrR_normal.png",
+        "listed_count": 333,
+        "is_translator": false
+      },
+      "514583101": {
+        "location": "FL/KY/NYC/DC",
+        "default_profile": false,
+        "profile_background_tile": true,
+        "statuses_count": 1722,
+        "lang": "en",
+        "profile_link_color": "009999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/514583101/1422721657",
+        "id": 514583101,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 169,
+        "profile_text_color": "333333",
+        "description": "Disassociated fragments from Jeffrey Scott Holland's research labs. NSFW.",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "EEEEEE",
+        "name": "J. Scott Holland",
+        "profile_background_color": "131516",
+        "created_at": "Sun Mar 04 17:50:29 +0000 2012",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 556,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530107401173598208/gka6S_c__normal.jpeg",
+        "geo_enabled": false,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "expanded_url": "http://en.wikipedia.org/wiki/Jeffrey_Scott_Holland",
+                "indices": [
+                  0,
+                  22
+                ],
+                "display_url": "en.wikipedia.org/wiki/Jeffrey_S…",
+                "url": "http://t.co/lxlURcdmW5"
+              }
+            ]
+          }
+        },
+        "url": "http://t.co/lxlURcdmW5",
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 611,
+        "profile_sidebar_fill_color": "EFEFEF",
+        "screen_name": "Telecrylic",
+        "id_str": "514583101",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530107401173598208/gka6S_c__normal.jpeg",
+        "listed_count": 9,
+        "is_translator": false
+      },
+      "72621735": {
+        "location": "",
+        "default_profile": false,
+        "profile_background_tile": false,
+        "statuses_count": 8026,
+        "lang": "en",
+        "profile_link_color": "0084B4",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/72621735/1400523565",
+        "id": 72621735,
+        "following": true,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 272,
+        "profile_text_color": "333333",
+        "description": "Likes: Streetart / Urbanart, Contemporary Ltd Edition Prints..Banksy, dran, faile, eelus, jr, eine, mau mau, Sir peter blake, invader,Obey etc. For Sale here...",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "A8C7F7",
+        "name": "UffiziGraffiti",
+        "profile_background_color": "022330",
+        "created_at": "Tue Sep 08 18:10:34 +0000 2009",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 1687,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1368837431/JR_Self_normal.jpg",
+        "geo_enabled": true,
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "expanded_url": "http://www.ebay.co.uk/sch/uffizi.graffiti/m.html?_ipg=50&_sop=12&_rdc=1",
+                "indices": [
+                  0,
+                  22
+                ],
+                "display_url": "ebay.co.uk/sch/uffizi.gra…",
+                "url": "http://t.co/MMmSFaAfiz"
+              }
+            ]
+          }
+        },
+        "url": "http://t.co/MMmSFaAfiz",
+        "utc_offset": 0,
+        "time_zone": "London",
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 1558,
+        "profile_sidebar_fill_color": "C0DFEC",
+        "screen_name": "UffiziGraffiti",
+        "id_str": "72621735",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1368837431/JR_Self_normal.jpg",
+        "listed_count": 82,
+        "is_translator": false
+      },
+      "2139211": {
+        "location": "New York",
+        "default_profile": false,
+        "profile_background_tile": true,
+        "statuses_count": 9636,
+        "lang": "en",
+        "profile_link_color": "0000FF",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2139211/1398194728",
+        "id": 2139211,
+        "following": true,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 4599,
+        "profile_text_color": "000000",
+        "description": "At Twitter: working with journalists & news orgs; also with authors. Outside of Twitter: Novelist, journalist, pro-cat-ist.",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "FFFFFF",
+        "name": "Andrew Fitzgerald",
+        "profile_background_color": "9AE4E8",
+        "created_at": "Sat Mar 24 22:44:58 +0000 2007",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 141023,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/492756051914006528/ICMrPvJL_normal.png",
+        "geo_enabled": true,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/54691093/hubble-eagle-nebula-wide-field-04086y.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/54691093/hubble-eagle-nebula-wide-field-04086y.jpg",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "expanded_url": "http://andrewjfitzgerald.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "display_url": "andrewjfitzgerald.com",
+                "url": "http://t.co/EM2KJBfNfR"
+              }
+            ]
+          }
+        },
+        "url": "http://t.co/EM2KJBfNfR",
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 999,
+        "profile_sidebar_fill_color": "E0FF92",
+        "screen_name": "magicandrew",
+        "id_str": "2139211",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/492756051914006528/ICMrPvJL_normal.png",
+        "listed_count": 626,
+        "is_translator": false
+      },
+      "1854347438": {
+        "location": "Hong Kong",
+        "default_profile": false,
+        "profile_background_tile": true,
+        "statuses_count": 7467,
+        "lang": "en",
+        "profile_link_color": "0084B4",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1854347438/1416217422",
+        "id": 1854347438,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 516,
+        "profile_text_color": "333333",
+        "description": "What's happening in Hong Kong | Tweet us with #COCOHK | Sister sites: @CoconutsBangkok @CoconutsManila @CoconutsSG",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "FFFFFF",
+        "name": "Coconuts Hong Kong",
+        "profile_background_color": "C0DEED",
+        "created_at": "Wed Sep 11 13:31:07 +0000 2013",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 2638,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/443341141363011584/mtA4k1xn_normal.png",
+        "geo_enabled": true,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432845372050776065/43-umebT.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432845372050776065/43-umebT.jpeg",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "expanded_url": "http://hongkong.coconuts.co",
+                "indices": [
+                  0,
+                  22
+                ],
+                "display_url": "hongkong.coconuts.co",
+                "url": "http://t.co/xn5XedBEeJ"
+              }
+            ]
+          }
+        },
+        "url": "http://t.co/xn5XedBEeJ",
+        "utc_offset": null,
+        "time_zone": null,
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 194,
+        "profile_sidebar_fill_color": "DDEEF6",
+        "screen_name": "CoconutsHK",
+        "id_str": "1854347438",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/443341141363011584/mtA4k1xn_normal.png",
+        "listed_count": 122,
+        "is_translator": false
+      },
+      "359704109": {
+        "location": "Chicago via Forest Park",
+        "default_profile": false,
+        "profile_background_tile": true,
+        "statuses_count": 624,
+        "lang": "en",
+        "profile_link_color": "0084B4",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359704109/1399424663",
+        "id": 359704109,
+        "following": false,
+        "protected": false,
+        "profile_location": null,
+        "favourites_count": 18,
+        "profile_text_color": "3C3940",
+        "description": "Evolver",
+        "verified": false,
+        "contributors_enabled": false,
+        "profile_sidebar_border_color": "5ED4DC",
+        "name": "Broseph",
+        "profile_background_color": "C0DEED",
+        "created_at": "Mon Aug 22 01:32:08 +0000 2011",
+        "is_translation_enabled": false,
+        "default_profile_image": false,
+        "followers_count": 80,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1868089349/chicago_flag_2_normal.jpg",
+        "geo_enabled": false,
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/620100166/yeidk4evh7vhco4usvck.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/620100166/yeidk4evh7vhco4usvck.jpeg",
+        "follow_request_sent": false,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "url": null,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "notifications": false,
+        "profile_use_background_image": true,
+        "friends_count": 407,
+        "profile_sidebar_fill_color": "95E8EC",
+        "screen_name": "BrosoDenzo",
+        "id_str": "359704109",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1868089349/chicago_flag_2_normal.jpg",
+        "listed_count": 1,
+        "is_translator": false
+      }
+    },
+    "timelines": {
+      "custom-549647846786347008": {
+        "following": false,
+        "timeline_order": "curation_reverse_chron",
+        "visibility": "public",
+        "custom_timeline_url": "https://twitter.com/rchoi/timelines/549647846786347008",
+        "description": "Best tags on Twitter.",
+        "name": "#Graffitti",
+        "name_entities": {
+          "entities": {
+            "symbols": [],
+            "urls": [],
+            "hashtags": [
+              {
+                "text": "Graffitti",
+                "indices": [
+                  0,
+                  10
+                ]
+              }
+            ],
+            "user_mentions": []
+          }
+        },
+        "user_id": "54256387"
+      }
+    },
+    "tweets": {
+      "545609598879940608": {
+        "contributors": null,
+        "text": "Why we'll invest in a #Banksy via @BoothCapIdeas &gt;&gt; http://t.co/ZauiuqEyKY http://t.co/eeR5dzPKU6",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [
+            {
+              "expanded_url": "http://chibooth.biz/1tXo1bV",
+              "indices": [
+                58,
+                80
+              ],
+              "display_url": "chibooth.biz/1tXo1bV",
+              "url": "http://t.co/ZauiuqEyKY"
+            }
+          ],
+          "hashtags": [
+            {
+              "text": "Banksy",
+              "indices": [
+                22,
+                29
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 198
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 350
+                },
+                "large": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 350
+                }
+              },
+              "id": 545609598170714112,
+              "media_url_https": "https://pbs.twimg.com/media/B5JlCe0CUAAeWtF.jpg",
+              "media_url": "http://pbs.twimg.com/media/B5JlCe0CUAAeWtF.jpg",
+              "expanded_url": "http://twitter.com/BoothEveWknd/status/545609598879940608/photo/1",
+              "indices": [
+                81,
+                103
+              ],
+              "id_str": "545609598170714112",
+              "type": "photo",
+              "display_url": "pic.twitter.com/eeR5dzPKU6",
+              "url": "http://t.co/eeR5dzPKU6"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id": 1702155980,
+              "name": "Booth Capital Ideas",
+              "indices": [
+                34,
+                48
+              ],
+              "screen_name": "BoothCapIdeas",
+              "id_str": "1702155980"
+            }
+          ]
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 545609598879940608,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 198
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 350
+                },
+                "large": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 350
+                }
+              },
+              "id": 545609598170714112,
+              "media_url_https": "https://pbs.twimg.com/media/B5JlCe0CUAAeWtF.jpg",
+              "media_url": "http://pbs.twimg.com/media/B5JlCe0CUAAeWtF.jpg",
+              "expanded_url": "http://twitter.com/BoothEveWknd/status/545609598879940608/photo/1",
+              "indices": [
+                81,
+                103
+              ],
+              "id_str": "545609598170714112",
+              "type": "photo",
+              "display_url": "pic.twitter.com/eeR5dzPKU6",
+              "url": "http://t.co/eeR5dzPKU6"
+            }
+          ]
+        },
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 3,
+        "created_at": "Thu Dec 18 16:00:39 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 3,
+        "id_str": "545609598879940608",
+        "place": null,
+        "user": {
+          "id": 130863181,
+          "id_str": "130863181"
+        },
+        "coordinates": null
+      },
+      "548877793187344384": {
+        "contributors": null,
+        "text": "#graffiti #StreetSignPranking Some beautiful work by the London Vandal showing the rest of us how the master does it. http://t.co/knu0wN49ak",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [],
+          "hashtags": [
+            {
+              "text": "graffiti",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "text": "StreetSignPranking",
+              "indices": [
+                10,
+                29
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 339
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 598
+                },
+                "large": {
+                  "w": 899,
+                  "resize": "fit",
+                  "h": 897
+                }
+              },
+              "id": 548877792688209920,
+              "media_url_https": "https://pbs.twimg.com/media/B54BccJIAAA9Aaw.jpg",
+              "media_url": "http://pbs.twimg.com/media/B54BccJIAAA9Aaw.jpg",
+              "expanded_url": "http://twitter.com/JohnRMoffitt/status/548877793187344384/photo/1",
+              "indices": [
+                118,
+                140
+              ],
+              "id_str": "548877792688209920",
+              "type": "photo",
+              "display_url": "pic.twitter.com/knu0wN49ak",
+              "url": "http://t.co/knu0wN49ak"
+            }
+          ],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 548877793187344384,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 339
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 598
+                },
+                "large": {
+                  "w": 899,
+                  "resize": "fit",
+                  "h": 897
+                }
+              },
+              "id": 548877792688209920,
+              "media_url_https": "https://pbs.twimg.com/media/B54BccJIAAA9Aaw.jpg",
+              "media_url": "http://pbs.twimg.com/media/B54BccJIAAA9Aaw.jpg",
+              "expanded_url": "http://twitter.com/JohnRMoffitt/status/548877793187344384/photo/1",
+              "indices": [
+                118,
+                140
+              ],
+              "id_str": "548877792688209920",
+              "type": "photo",
+              "display_url": "pic.twitter.com/knu0wN49ak",
+              "url": "http://t.co/knu0wN49ak"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 51,
+        "created_at": "Sat Dec 27 16:27:18 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 30,
+        "id_str": "548877793187344384",
+        "place": null,
+        "user": {
+          "id": 1969346438,
+          "id_str": "1969346438"
+        },
+        "coordinates": null
+      },
+      "546569262245367808": {
+        "contributors": null,
+        "text": "Invader #streetart destroyed by #HongKong government expected to fetch HKD1m at auction http://t.co/vyGP6Z4fC5 http://t.co/XGxPYTEZUj",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [
+            {
+              "expanded_url": "http://buff.ly/1JcLefX",
+              "indices": [
+                88,
+                110
+              ],
+              "display_url": "buff.ly/1JcLefX",
+              "url": "http://t.co/vyGP6Z4fC5"
+            }
+          ],
+          "hashtags": [
+            {
+              "text": "streetart",
+              "indices": [
+                8,
+                18
+              ]
+            },
+            {
+              "text": "HongKong",
+              "indices": [
+                32,
+                41
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 229
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 404
+                },
+                "large": {
+                  "w": 613,
+                  "resize": "fit",
+                  "h": 413
+                }
+              },
+              "id": 546569262190825473,
+              "media_url_https": "https://pbs.twimg.com/media/B5XN2R4IEAE80ud.jpg",
+              "media_url": "http://pbs.twimg.com/media/B5XN2R4IEAE80ud.jpg",
+              "expanded_url": "http://twitter.com/CoconutsHK/status/546569262245367808/photo/1",
+              "indices": [
+                111,
+                133
+              ],
+              "id_str": "546569262190825473",
+              "type": "photo",
+              "display_url": "pic.twitter.com/XGxPYTEZUj",
+              "url": "http://t.co/XGxPYTEZUj"
+            }
+          ],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 546569262245367808,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 229
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 404
+                },
+                "large": {
+                  "w": 613,
+                  "resize": "fit",
+                  "h": 413
+                }
+              },
+              "id": 546569262190825473,
+              "media_url_https": "https://pbs.twimg.com/media/B5XN2R4IEAE80ud.jpg",
+              "media_url": "http://pbs.twimg.com/media/B5XN2R4IEAE80ud.jpg",
+              "expanded_url": "http://twitter.com/CoconutsHK/status/546569262245367808/photo/1",
+              "indices": [
+                111,
+                133
+              ],
+              "id_str": "546569262190825473",
+              "type": "photo",
+              "display_url": "pic.twitter.com/XGxPYTEZUj",
+              "url": "http://t.co/XGxPYTEZUj"
+            }
+          ]
+        },
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 0,
+        "created_at": "Sun Dec 21 07:34:01 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 3,
+        "id_str": "546569262245367808",
+        "place": null,
+        "user": {
+          "id": 1854347438,
+          "id_str": "1854347438"
+        },
+        "coordinates": null
+      },
+      "423203995893506049": {
+        "contributors": null,
+        "text": "#MantraVoz\n#Graffiti  #Streetart \n\n&gt;&gt; http://t.co/lfjhIkj5e7 http://t.co/LJoN5EAArH",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "und",
+        "entities": {
+          "symbols": [],
+          "urls": [
+            {
+              "expanded_url": "http://mantra-one.tumblr.com/",
+              "indices": [
+                44,
+                66
+              ],
+              "display_url": "mantra-one.tumblr.com",
+              "url": "http://t.co/lfjhIkj5e7"
+            }
+          ],
+          "hashtags": [
+            {
+              "text": "MantraVoz",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "text": "Graffiti",
+              "indices": [
+                11,
+                20
+              ]
+            },
+            {
+              "text": "Streetart",
+              "indices": [
+                22,
+                32
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 222
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 392
+                },
+                "large": {
+                  "w": 960,
+                  "resize": "fit",
+                  "h": 628
+                }
+              },
+              "id": 423203995901894656,
+              "media_url_https": "https://pbs.twimg.com/media/Bd-FysNCIAAMudK.jpg",
+              "media_url": "http://pbs.twimg.com/media/Bd-FysNCIAAMudK.jpg",
+              "expanded_url": "http://twitter.com/DamienOTrash/status/423203995893506049/photo/1",
+              "indices": [
+                67,
+                89
+              ],
+              "id_str": "423203995901894656",
+              "type": "photo",
+              "display_url": "pic.twitter.com/LJoN5EAArH",
+              "url": "http://t.co/LJoN5EAArH"
+            }
+          ],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 423203995893506049,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 222
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 392
+                },
+                "large": {
+                  "w": 960,
+                  "resize": "fit",
+                  "h": 628
+                }
+              },
+              "id": 423203995901894656,
+              "media_url_https": "https://pbs.twimg.com/media/Bd-FysNCIAAMudK.jpg",
+              "media_url": "http://pbs.twimg.com/media/Bd-FysNCIAAMudK.jpg",
+              "expanded_url": "http://twitter.com/DamienOTrash/status/423203995893506049/photo/1",
+              "indices": [
+                67,
+                89
+              ],
+              "id_str": "423203995901894656",
+              "type": "photo",
+              "display_url": "pic.twitter.com/LJoN5EAArH",
+              "url": "http://t.co/LJoN5EAArH"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 3,
+        "created_at": "Tue Jan 14 21:24:30 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 3,
+        "id_str": "423203995893506049",
+        "place": null,
+        "user": {
+          "id": 124121765,
+          "id_str": "124121765"
+        },
+        "coordinates": null
+      },
+      "533709879614398464": {
+        "contributors": null,
+        "text": "Artist Alex Maksiov amazing anamorphic nature in Street Art in Sarasota FL\n\n#art #mural http://t.co/YRsHBB9i0e",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [],
+          "hashtags": [
+            {
+              "text": "art",
+              "indices": [
+                76,
+                80
+              ]
+            },
+            {
+              "text": "mural",
+              "indices": [
+                81,
+                87
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 255
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 450
+                },
+                "large": {
+                  "w": 960,
+                  "resize": "fit",
+                  "h": 720
+                }
+              },
+              "id": 533709846248710144,
+              "media_url_https": "https://pbs.twimg.com/media/B2geRwbIYAA_PRF.jpg",
+              "media_url": "http://pbs.twimg.com/media/B2geRwbIYAA_PRF.jpg",
+              "expanded_url": "http://twitter.com/GoogleStreetArt/status/533709879614398464/photo/1",
+              "indices": [
+                88,
+                110
+              ],
+              "id_str": "533709846248710144",
+              "type": "photo",
+              "display_url": "pic.twitter.com/YRsHBB9i0e",
+              "url": "http://t.co/YRsHBB9i0e"
+            }
+          ],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 533709879614398464,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 255
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 450
+                },
+                "large": {
+                  "w": 960,
+                  "resize": "fit",
+                  "h": 720
+                }
+              },
+              "id": 533709846248710144,
+              "media_url_https": "https://pbs.twimg.com/media/B2geRwbIYAA_PRF.jpg",
+              "media_url": "http://pbs.twimg.com/media/B2geRwbIYAA_PRF.jpg",
+              "expanded_url": "http://twitter.com/GoogleStreetArt/status/533709879614398464/photo/1",
+              "indices": [
+                88,
+                110
+              ],
+              "id_str": "533709846248710144",
+              "type": "photo",
+              "display_url": "pic.twitter.com/YRsHBB9i0e",
+              "url": "http://t.co/YRsHBB9i0e"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 358,
+        "created_at": "Sat Nov 15 19:55:25 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 287,
+        "id_str": "533709879614398464",
+        "place": null,
+        "user": {
+          "id": 713003123,
+          "id_str": "713003123"
+        },
+        "coordinates": null
+      },
+      "546602380029341696": {
+        "contributors": null,
+        "text": "Tristan Eaton \n#streetart #urbanart\nhttps://t.co/9BYv4s3X0v  http://t.co/fScQ3x6san via @StreetArtBuzz",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [
+            {
+              "expanded_url": "https://twib.in/l/bX4E95oqdEb",
+              "indices": [
+                36,
+                59
+              ],
+              "display_url": "twib.in/l/bX4E95oqdEb",
+              "url": "https://t.co/9BYv4s3X0v"
+            }
+          ],
+          "hashtags": [
+            {
+              "text": "streetart",
+              "indices": [
+                15,
+                25
+              ]
+            },
+            {
+              "text": "urbanart",
+              "indices": [
+                26,
+                35
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 340
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 600
+                },
+                "large": {
+                  "w": 640,
+                  "resize": "fit",
+                  "h": 640
+                }
+              },
+              "source_user_id": 2588358986,
+              "media_url": "http://pbs.twimg.com/media/B3L2jaPCcAAdLc4.jpg",
+              "display_url": "pic.twitter.com/fScQ3x6san",
+              "type": "photo",
+              "url": "http://t.co/fScQ3x6san",
+              "id": 536762393808760832,
+              "media_url_https": "https://pbs.twimg.com/media/B3L2jaPCcAAdLc4.jpg",
+              "expanded_url": "http://twitter.com/StreetArtBuzz/status/536762393922002944/photo/1",
+              "source_user_id_str": "2588358986",
+              "indices": [
+                61,
+                83
+              ],
+              "source_status_id_str": "536762393922002944",
+              "source_status_id": 536762393922002944,
+              "id_str": "536762393808760832"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id": 2588358986,
+              "name": "Street Art Buzz",
+              "indices": [
+                88,
+                102
+              ],
+              "screen_name": "StreetArtBuzz",
+              "id_str": "2588358986"
+            }
+          ]
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 546602380029341696,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 340
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 600
+                },
+                "large": {
+                  "w": 640,
+                  "resize": "fit",
+                  "h": 640
+                }
+              },
+              "source_user_id": 2588358986,
+              "media_url": "http://pbs.twimg.com/media/B3L2jaPCcAAdLc4.jpg",
+              "display_url": "pic.twitter.com/fScQ3x6san",
+              "type": "photo",
+              "url": "http://t.co/fScQ3x6san",
+              "id": 536762393808760832,
+              "media_url_https": "https://pbs.twimg.com/media/B3L2jaPCcAAdLc4.jpg",
+              "expanded_url": "http://twitter.com/StreetArtBuzz/status/536762393922002944/photo/1",
+              "source_user_id_str": "2588358986",
+              "indices": [
+                61,
+                83
+              ],
+              "source_status_id_str": "536762393922002944",
+              "source_status_id": 536762393922002944,
+              "id_str": "536762393808760832"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 4,
+        "created_at": "Sun Dec 21 09:45:37 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 3,
+        "id_str": "546602380029341696",
+        "place": null,
+        "user": {
+          "id": 84644257,
+          "id_str": "84644257"
+        },
+        "coordinates": null
+      },
+      "549274994363355136": {
+        "contributors": null,
+        "text": "Wonderful new Street Art by Minjae Lee in Bordeaux, France \n\n#art #streetart ? @UrbanNerding http://t.co/nE1gSNK3kL",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [],
+          "hashtags": [
+            {
+              "text": "art",
+              "indices": [
+                61,
+                65
+              ]
+            },
+            {
+              "text": "streetart",
+              "indices": [
+                66,
+                76
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 335
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 591
+                },
+                "large": {
+                  "w": 640,
+                  "resize": "fit",
+                  "h": 631
+                }
+              },
+              "id": 549274973810851842,
+              "media_url_https": "https://pbs.twimg.com/media/B59qrbICAAI2ity.jpg",
+              "media_url": "http://pbs.twimg.com/media/B59qrbICAAI2ity.jpg",
+              "expanded_url": "http://twitter.com/GoogleStreetArt/status/549274994363355136/photo/1",
+              "indices": [
+                93,
+                115
+              ],
+              "id_str": "549274973810851842",
+              "type": "photo",
+              "display_url": "pic.twitter.com/nE1gSNK3kL",
+              "url": "http://t.co/nE1gSNK3kL"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id": 2351601943,
+              "name": "Urban Nerding",
+              "indices": [
+                79,
+                92
+              ],
+              "screen_name": "UrbanNerding",
+              "id_str": "2351601943"
+            }
+          ]
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 549274994363355136,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 335
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 591
+                },
+                "large": {
+                  "w": 640,
+                  "resize": "fit",
+                  "h": 631
+                }
+              },
+              "id": 549274973810851842,
+              "media_url_https": "https://pbs.twimg.com/media/B59qrbICAAI2ity.jpg",
+              "media_url": "http://pbs.twimg.com/media/B59qrbICAAI2ity.jpg",
+              "expanded_url": "http://twitter.com/GoogleStreetArt/status/549274994363355136/photo/1",
+              "indices": [
+                93,
+                115
+              ],
+              "id_str": "549274973810851842",
+              "type": "photo",
+              "display_url": "pic.twitter.com/nE1gSNK3kL",
+              "url": "http://t.co/nE1gSNK3kL"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": true,
+        "in_reply_to_status_id": null,
+        "retweet_count": 339,
+        "created_at": "Sun Dec 28 18:45:38 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 311,
+        "id_str": "549274994363355136",
+        "place": null,
+        "user": {
+          "id": 713003123,
+          "id_str": "713003123"
+        },
+        "coordinates": null
+      },
+      "546297986754809857": {
+        "contributors": null,
+        "text": "\"Rt @pinkbigmac @PlusTaxMUSIC: #myson #Banksy by secretlyuluvme - #Artlife #Streetart #StreetArtist #underground http://t.co/71nHDeCAUL\"",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [],
+          "hashtags": [
+            {
+              "text": "myson",
+              "indices": [
+                31,
+                37
+              ]
+            },
+            {
+              "text": "Banksy",
+              "indices": [
+                38,
+                45
+              ]
+            },
+            {
+              "text": "Artlife",
+              "indices": [
+                66,
+                74
+              ]
+            },
+            {
+              "text": "Streetart",
+              "indices": [
+                75,
+                85
+              ]
+            },
+            {
+              "text": "StreetArtist",
+              "indices": [
+                86,
+                99
+              ]
+            },
+            {
+              "text": "underground",
+              "indices": [
+                100,
+                112
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 340
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 600
+                },
+                "large": {
+                  "w": 640,
+                  "resize": "fit",
+                  "h": 640
+                }
+              },
+              "source_user_id": 273582269,
+              "media_url": "http://pbs.twimg.com/media/B5TLkbsIQAAy9gZ.jpg",
+              "display_url": "pic.twitter.com/71nHDeCAUL",
+              "type": "photo",
+              "url": "http://t.co/71nHDeCAUL",
+              "id": 546285281587249152,
+              "media_url_https": "https://pbs.twimg.com/media/B5TLkbsIQAAy9gZ.jpg",
+              "expanded_url": "http://twitter.com/PlusTaxMUSIC/status/546285281796972544/photo/1",
+              "source_user_id_str": "273582269",
+              "indices": [
+                113,
+                135
+              ],
+              "source_status_id_str": "546285281796972544",
+              "source_status_id": 546285281796972544,
+              "id_str": "546285281587249152"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id": 112169930,
+              "name": "pinkbigmac",
+              "indices": [
+                4,
+                15
+              ],
+              "screen_name": "pinkbigmac",
+              "id_str": "112169930"
+            }
+          ]
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 546297986754809857,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 340
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 600
+                },
+                "large": {
+                  "w": 640,
+                  "resize": "fit",
+                  "h": 640
+                }
+              },
+              "source_user_id": 273582269,
+              "media_url": "http://pbs.twimg.com/media/B5TLkbsIQAAy9gZ.jpg",
+              "display_url": "pic.twitter.com/71nHDeCAUL",
+              "type": "photo",
+              "url": "http://t.co/71nHDeCAUL",
+              "id": 546285281587249152,
+              "media_url_https": "https://pbs.twimg.com/media/B5TLkbsIQAAy9gZ.jpg",
+              "expanded_url": "http://twitter.com/PlusTaxMUSIC/status/546285281796972544/photo/1",
+              "source_user_id_str": "273582269",
+              "indices": [
+                113,
+                135
+              ],
+              "source_status_id_str": "546285281796972544",
+              "source_status_id": 546285281796972544,
+              "id_str": "546285281587249152"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 4,
+        "created_at": "Sat Dec 20 13:36:04 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 3,
+        "id_str": "546297986754809857",
+        "place": null,
+        "user": {
+          "id": 1257992329,
+          "id_str": "1257992329"
+        },
+        "coordinates": null
+      },
+      "546673979784982530": {
+        "contributors": null,
+        "text": "Artist @aryz_ Street Art mural in Linz, Austria #art #mural #graffiti #streetart http://t.co/iPK0yID07Q",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [],
+          "hashtags": [
+            {
+              "text": "art",
+              "indices": [
+                48,
+                52
+              ]
+            },
+            {
+              "text": "mural",
+              "indices": [
+                53,
+                59
+              ]
+            },
+            {
+              "text": "graffiti",
+              "indices": [
+                60,
+                69
+              ]
+            },
+            {
+              "text": "streetart",
+              "indices": [
+                70,
+                80
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 510
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 420,
+                  "resize": "fit",
+                  "h": 630
+                },
+                "large": {
+                  "w": 420,
+                  "resize": "fit",
+                  "h": 630
+                }
+              },
+              "source_user_id": 713003123,
+              "media_url": "http://pbs.twimg.com/media/BvnxMPyCEAAToS5.jpg",
+              "display_url": "pic.twitter.com/iPK0yID07Q",
+              "type": "photo",
+              "url": "http://t.co/iPK0yID07Q",
+              "id": 502698026125627392,
+              "media_url_https": "https://pbs.twimg.com/media/BvnxMPyCEAAToS5.jpg",
+              "expanded_url": "http://twitter.com/GoogleStreetArt/status/502698033206009856/photo/1",
+              "source_user_id_str": "713003123",
+              "indices": [
+                81,
+                103
+              ],
+              "source_status_id_str": "502698033206009856",
+              "source_status_id": 502698033206009856,
+              "id_str": "502698026125627392"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id": 269454758,
+              "name": "ARYZ",
+              "indices": [
+                7,
+                13
+              ],
+              "screen_name": "aryz_",
+              "id_str": "269454758"
+            }
+          ]
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 546673979784982530,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 510
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 420,
+                  "resize": "fit",
+                  "h": 630
+                },
+                "large": {
+                  "w": 420,
+                  "resize": "fit",
+                  "h": 630
+                }
+              },
+              "source_user_id": 713003123,
+              "media_url": "http://pbs.twimg.com/media/BvnxMPyCEAAToS5.jpg",
+              "display_url": "pic.twitter.com/iPK0yID07Q",
+              "type": "photo",
+              "url": "http://t.co/iPK0yID07Q",
+              "id": 502698026125627392,
+              "media_url_https": "https://pbs.twimg.com/media/BvnxMPyCEAAToS5.jpg",
+              "expanded_url": "http://twitter.com/GoogleStreetArt/status/502698033206009856/photo/1",
+              "source_user_id_str": "713003123",
+              "indices": [
+                81,
+                103
+              ],
+              "source_status_id_str": "502698033206009856",
+              "source_status_id": 502698033206009856,
+              "id_str": "502698026125627392"
+            }
+          ]
+        },
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 1,
+        "created_at": "Sun Dec 21 14:30:08 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 0,
+        "id_str": "546673979784982530",
+        "place": null,
+        "user": {
+          "id": 2782022756,
+          "id_str": "2782022756"
+        },
+        "coordinates": null
+      },
+      "549568456266620931": {
+        "contributors": null,
+        "text": "Fat Guys With Beards Are Everywhere, St. Petersburg, FL, 5-2-2014. #graffiti #streetart http://t.co/7BxhQO8TP6",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [],
+          "hashtags": [
+            {
+              "text": "graffiti",
+              "indices": [
+                67,
+                76
+              ]
+            },
+            {
+              "text": "streetart",
+              "indices": [
+                77,
+                87
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 255
+                },
+                "large": {
+                  "w": 1024,
+                  "resize": "fit",
+                  "h": 768
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 450
+                }
+              },
+              "id": 549568455394222080,
+              "media_url_https": "https://pbs.twimg.com/media/B6B1mTOIYAAD_Kl.jpg",
+              "media_url": "http://pbs.twimg.com/media/B6B1mTOIYAAD_Kl.jpg",
+              "expanded_url": "http://twitter.com/Telecrylic/status/549568456266620931/photo/1",
+              "indices": [
+                88,
+                110
+              ],
+              "id_str": "549568455394222080",
+              "type": "photo",
+              "display_url": "pic.twitter.com/7BxhQO8TP6",
+              "url": "http://t.co/7BxhQO8TP6"
+            }
+          ],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 549568456266620931,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 255
+                },
+                "large": {
+                  "w": 1024,
+                  "resize": "fit",
+                  "h": 768
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 450
+                }
+              },
+              "id": 549568455394222080,
+              "media_url_https": "https://pbs.twimg.com/media/B6B1mTOIYAAD_Kl.jpg",
+              "media_url": "http://pbs.twimg.com/media/B6B1mTOIYAAD_Kl.jpg",
+              "expanded_url": "http://twitter.com/Telecrylic/status/549568456266620931/photo/1",
+              "indices": [
+                88,
+                110
+              ],
+              "id_str": "549568455394222080",
+              "type": "photo",
+              "display_url": "pic.twitter.com/7BxhQO8TP6",
+              "url": "http://t.co/7BxhQO8TP6"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 1,
+        "created_at": "Mon Dec 29 14:11:45 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 3,
+        "id_str": "549568456266620931",
+        "place": null,
+        "user": {
+          "id": 514583101,
+          "id_str": "514583101"
+        },
+        "coordinates": null
+      },
+      "546892979060088832": {
+        "contributors": null,
+        "text": "http://t.co/HXzgSFTvQR\n#Art #Colour #featured #Painting #PassionedRage #StreetArt http://t.co/NjqRXWGlMB",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "und",
+        "entities": {
+          "symbols": [],
+          "urls": [
+            {
+              "expanded_url": "http://passionedrage.com/",
+              "indices": [
+                0,
+                22
+              ],
+              "display_url": "passionedrage.com",
+              "url": "http://t.co/HXzgSFTvQR"
+            }
+          ],
+          "hashtags": [
+            {
+              "text": "Art",
+              "indices": [
+                23,
+                27
+              ]
+            },
+            {
+              "text": "Colour",
+              "indices": [
+                28,
+                35
+              ]
+            },
+            {
+              "text": "featured",
+              "indices": [
+                36,
+                45
+              ]
+            },
+            {
+              "text": "Painting",
+              "indices": [
+                46,
+                55
+              ]
+            },
+            {
+              "text": "PassionedRage",
+              "indices": [
+                56,
+                70
+              ]
+            },
+            {
+              "text": "StreetArt",
+              "indices": [
+                71,
+                81
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 255
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 450
+                },
+                "large": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 450
+                }
+              },
+              "id": 546892979013967872,
+              "media_url_https": "https://pbs.twimg.com/media/B5b0RFBIYAAtpie.jpg",
+              "media_url": "http://pbs.twimg.com/media/B5b0RFBIYAAtpie.jpg",
+              "expanded_url": "http://twitter.com/passionedrage/status/546892979060088832/photo/1",
+              "indices": [
+                82,
+                104
+              ],
+              "id_str": "546892979013967872",
+              "type": "photo",
+              "display_url": "pic.twitter.com/NjqRXWGlMB",
+              "url": "http://t.co/NjqRXWGlMB"
+            }
+          ],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 546892979060088832,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 255
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 450
+                },
+                "large": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 450
+                }
+              },
+              "id": 546892979013967872,
+              "media_url_https": "https://pbs.twimg.com/media/B5b0RFBIYAAtpie.jpg",
+              "media_url": "http://pbs.twimg.com/media/B5b0RFBIYAAtpie.jpg",
+              "expanded_url": "http://twitter.com/passionedrage/status/546892979060088832/photo/1",
+              "indices": [
+                82,
+                104
+              ],
+              "id_str": "546892979013967872",
+              "type": "photo",
+              "display_url": "pic.twitter.com/NjqRXWGlMB",
+              "url": "http://t.co/NjqRXWGlMB"
+            }
+          ]
+        },
+        "source": "<a href=\"http://passionrage.mysocialsplash.com/\" rel=\"nofollow\">passionedrage</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 2,
+        "created_at": "Mon Dec 22 05:00:21 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 2,
+        "id_str": "546892979060088832",
+        "place": null,
+        "user": {
+          "id": 1372636412,
+          "id_str": "1372636412"
+        },
+        "coordinates": null
+      },
+      "547178234690150401": {
+        "contributors": null,
+        "text": "Society nowadays. #Banksy http://t.co/yQ128ojMLh",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [],
+          "hashtags": [
+            {
+              "text": "Banksy",
+              "indices": [
+                18,
+                25
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 340
+                },
+                "large": {
+                  "w": 613,
+                  "resize": "fit",
+                  "h": 613
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 600
+                }
+              },
+              "id": 547178228428062727,
+              "media_url_https": "https://pbs.twimg.com/media/B5f3sx5IQAcoyb4.jpg",
+              "media_url": "http://pbs.twimg.com/media/B5f3sx5IQAcoyb4.jpg",
+              "expanded_url": "http://twitter.com/CollegeOfMusic2/status/547178234690150401/photo/1",
+              "indices": [
+                26,
+                48
+              ],
+              "id_str": "547178228428062727",
+              "type": "photo",
+              "display_url": "pic.twitter.com/yQ128ojMLh",
+              "url": "http://t.co/yQ128ojMLh"
+            }
+          ],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 547178234690150401,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 340
+                },
+                "large": {
+                  "w": 613,
+                  "resize": "fit",
+                  "h": 613
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 600
+                }
+              },
+              "id": 547178228428062727,
+              "media_url_https": "https://pbs.twimg.com/media/B5f3sx5IQAcoyb4.jpg",
+              "media_url": "http://pbs.twimg.com/media/B5f3sx5IQAcoyb4.jpg",
+              "expanded_url": "http://twitter.com/CollegeOfMusic2/status/547178234690150401/photo/1",
+              "indices": [
+                26,
+                48
+              ],
+              "id_str": "547178228428062727",
+              "type": "photo",
+              "display_url": "pic.twitter.com/yQ128ojMLh",
+              "url": "http://t.co/yQ128ojMLh"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 6,
+        "created_at": "Mon Dec 22 23:53:51 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 12,
+        "id_str": "547178234690150401",
+        "place": null,
+        "user": {
+          "id": 263375851,
+          "id_str": "263375851"
+        },
+        "coordinates": null
+      },
+      "560163706198573056": {
+        "contributors": null,
+        "text": "Lara just shared (by accident) with our meeting RT @Larakate: My first #TwitterVideo starring Gabe and hot chocolate. http://t.co/qgGAbPzFyh",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [],
+          "hashtags": [
+            {
+              "text": "TwitterVideo",
+              "indices": [
+                71,
+                84
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 340
+                },
+                "large": {
+                  "w": 720,
+                  "resize": "fit",
+                  "h": 720
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 600
+                }
+              },
+              "source_user_id": 15517162,
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/560157713661841408/pu/img/B9SQlj1n-r5r6Nbv.jpg",
+              "display_url": "pic.twitter.com/qgGAbPzFyh",
+              "type": "photo",
+              "url": "http://t.co/qgGAbPzFyh",
+              "id": 560157713661841408,
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/560157713661841408/pu/img/B9SQlj1n-r5r6Nbv.jpg",
+              "expanded_url": "http://twitter.com/Larakate/status/560157865412157441/video/1",
+              "source_user_id_str": "15517162",
+              "indices": [
+                118,
+                140
+              ],
+              "source_status_id_str": "560157865412157441",
+              "source_status_id": 560157865412157441,
+              "id_str": "560157713661841408"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id": 15517162,
+              "name": "lara cohen",
+              "indices": [
+                51,
+                60
+              ],
+              "screen_name": "Larakate",
+              "id_str": "15517162"
+            }
+          ]
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 560163706198573056,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 340
+                },
+                "large": {
+                  "w": 720,
+                  "resize": "fit",
+                  "h": 720
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 600
+                }
+              },
+              "source_user_id": 15517162,
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/560157713661841408/pu/img/B9SQlj1n-r5r6Nbv.jpg",
+              "display_url": "pic.twitter.com/qgGAbPzFyh",
+              "type": "video",
+              "url": "http://t.co/qgGAbPzFyh",
+              "id": 560157713661841408,
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/560157713661841408/pu/img/B9SQlj1n-r5r6Nbv.jpg",
+              "video_info": {
+                "duration_millis": 13632,
+                "variants": [
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/webm",
+                    "url": "https://video.twimg.com/ext_tw_video/560157713661841408/pu/vid/480x480/uPYvVgQMOl2uDc85.webm"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/560157713661841408/pu/vid/480x480/uPYvVgQMOl2uDc85.mp4"
+                  },
+                  {
+                    "bitrate": 1280000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/560157713661841408/pu/vid/720x720/4j2XqMVDynsrDJVk.mp4"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/560157713661841408/pu/pl/Et639BmHNPjWCvSX.m3u8"
+                  },
+                  {
+                    "bitrate": 320000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/560157713661841408/pu/vid/240x240/wb8OcYp3yaDs54cm.mp4"
+                  }
+                ],
+                "aspect_ratio": [
+                  1,
+                  1
+                ]
+              },
+              "expanded_url": "http://twitter.com/Larakate/status/560157865412157441/video/1",
+              "source_user_id_str": "15517162",
+              "indices": [
+                118,
+                140
+              ],
+              "source_status_id_str": "560157865412157441",
+              "source_status_id": 560157865412157441,
+              "id_str": "560157713661841408"
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 1,
+        "created_at": "Tue Jan 27 19:53:29 +0000 2015",
+        "in_reply_to_user_id": null,
+        "favorite_count": 5,
+        "id_str": "560163706198573056",
+        "place": null,
+        "user": {
+          "id": 2139211,
+          "id_str": "2139211"
+        },
+        "coordinates": null
+      },
+      "552186827273428993": {
+        "contributors": null,
+        "text": "Life is right now. #happynewyear #oakland #oaklandart #slapup #slap #graffitti #streetart #oaklandart #publicart ... http://t.co/qIq9TV4uAj",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [],
+          "hashtags": [
+            {
+              "text": "happynewyear",
+              "indices": [
+                19,
+                32
+              ]
+            },
+            {
+              "text": "oakland",
+              "indices": [
+                33,
+                41
+              ]
+            },
+            {
+              "text": "oaklandart",
+              "indices": [
+                42,
+                53
+              ]
+            },
+            {
+              "text": "slapup",
+              "indices": [
+                54,
+                61
+              ]
+            },
+            {
+              "text": "slap",
+              "indices": [
+                62,
+                67
+              ]
+            },
+            {
+              "text": "graffitti",
+              "indices": [
+                68,
+                78
+              ]
+            },
+            {
+              "text": "streetart",
+              "indices": [
+                79,
+                89
+              ]
+            },
+            {
+              "text": "oaklandart",
+              "indices": [
+                90,
+                101
+              ]
+            },
+            {
+              "text": "publicart",
+              "indices": [
+                102,
+                112
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 340
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 600
+                },
+                "large": {
+                  "w": 640,
+                  "resize": "fit",
+                  "h": 640
+                }
+              },
+              "id": 552186827210498049,
+              "media_url_https": "https://pbs.twimg.com/media/B6nC_mWIIAEvHhG.jpg",
+              "media_url": "http://pbs.twimg.com/media/B6nC_mWIIAEvHhG.jpg",
+              "expanded_url": "http://twitter.com/publicartfound/status/552186827273428993/photo/1",
+              "indices": [
+                117,
+                139
+              ],
+              "id_str": "552186827210498049",
+              "type": "photo",
+              "display_url": "pic.twitter.com/qIq9TV4uAj",
+              "url": "http://t.co/qIq9TV4uAj"
+            }
+          ],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 552186827273428993,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 340
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 600
+                },
+                "large": {
+                  "w": 640,
+                  "resize": "fit",
+                  "h": 640
+                }
+              },
+              "id": 552186827210498049,
+              "media_url_https": "https://pbs.twimg.com/media/B6nC_mWIIAEvHhG.jpg",
+              "media_url": "http://pbs.twimg.com/media/B6nC_mWIIAEvHhG.jpg",
+              "expanded_url": "http://twitter.com/publicartfound/status/552186827273428993/photo/1",
+              "indices": [
+                117,
+                139
+              ],
+              "id_str": "552186827210498049",
+              "type": "photo",
+              "display_url": "pic.twitter.com/qIq9TV4uAj",
+              "url": "http://t.co/qIq9TV4uAj"
+            }
+          ]
+        },
+        "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 2,
+        "created_at": "Mon Jan 05 19:36:13 +0000 2015",
+        "in_reply_to_user_id": null,
+        "favorite_count": 1,
+        "id_str": "552186827273428993",
+        "place": null,
+        "user": {
+          "id": 2588016847,
+          "id_str": "2588016847"
+        },
+        "coordinates": null
+      },
+      "546426068471939072": {
+        "contributors": null,
+        "text": "#Banksy http://t.co/UNZKcMbAvq",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "und",
+        "entities": {
+          "symbols": [],
+          "urls": [],
+          "hashtags": [
+            {
+              "text": "Banksy",
+              "indices": [
+                0,
+                7
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 226
+                },
+                "medium": {
+                  "w": 420,
+                  "resize": "fit",
+                  "h": 280
+                },
+                "large": {
+                  "w": 420,
+                  "resize": "fit",
+                  "h": 280
+                }
+              },
+              "id": 546426067410763777,
+              "media_url_https": "https://pbs.twimg.com/media/B5VLnPwIQAEai9f.jpg",
+              "media_url": "http://pbs.twimg.com/media/B5VLnPwIQAEai9f.jpg",
+              "expanded_url": "http://twitter.com/BrosoDenzo/status/546426068471939072/photo/1",
+              "indices": [
+                8,
+                30
+              ],
+              "id_str": "546426067410763777",
+              "type": "photo",
+              "display_url": "pic.twitter.com/UNZKcMbAvq",
+              "url": "http://t.co/UNZKcMbAvq"
+            }
+          ],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 546426068471939072,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 226
+                },
+                "medium": {
+                  "w": 420,
+                  "resize": "fit",
+                  "h": 280
+                },
+                "large": {
+                  "w": 420,
+                  "resize": "fit",
+                  "h": 280
+                }
+              },
+              "id": 546426067410763777,
+              "media_url_https": "https://pbs.twimg.com/media/B5VLnPwIQAEai9f.jpg",
+              "media_url": "http://pbs.twimg.com/media/B5VLnPwIQAEai9f.jpg",
+              "expanded_url": "http://twitter.com/BrosoDenzo/status/546426068471939072/photo/1",
+              "indices": [
+                8,
+                30
+              ],
+              "id_str": "546426067410763777",
+              "type": "photo",
+              "display_url": "pic.twitter.com/UNZKcMbAvq",
+              "url": "http://t.co/UNZKcMbAvq"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 1,
+        "created_at": "Sat Dec 20 22:05:01 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 1,
+        "id_str": "546426068471939072",
+        "place": null,
+        "user": {
+          "id": 359704109,
+          "id_str": "359704109"
+        },
+        "coordinates": null
+      },
+      "548878569364287488": {
+        "contributors": null,
+        "text": "\"@AliciaDCrumpton: Etam Cru #streetart http://t.co/AKwoNzkj0V\" #graffiti #graffitiart",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "et",
+        "entities": {
+          "symbols": [],
+          "urls": [],
+          "hashtags": [
+            {
+              "text": "streetart",
+              "indices": [
+                28,
+                38
+              ]
+            },
+            {
+              "text": "graffiti",
+              "indices": [
+                63,
+                72
+              ]
+            },
+            {
+              "text": "graffitiart",
+              "indices": [
+                73,
+                85
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 225
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 398
+                },
+                "large": {
+                  "w": 960,
+                  "resize": "fit",
+                  "h": 638
+                }
+              },
+              "source_user_id": 1500407036,
+              "media_url": "http://pbs.twimg.com/media/B0eg4DrCMAAl-IL.jpg",
+              "display_url": "pic.twitter.com/AKwoNzkj0V",
+              "type": "photo",
+              "url": "http://t.co/AKwoNzkj0V",
+              "id": 524564766530875392,
+              "media_url_https": "https://pbs.twimg.com/media/B0eg4DrCMAAl-IL.jpg",
+              "expanded_url": "http://twitter.com/AliciaDCrumpton/status/524564770683637761/photo/1",
+              "source_user_id_str": "1500407036",
+              "indices": [
+                39,
+                61
+              ],
+              "source_status_id_str": "524564770683637761",
+              "source_status_id": 524564770683637761,
+              "id_str": "524564766530875392"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id": 1500407036,
+              "name": "Alicia Crumpton",
+              "indices": [
+                1,
+                17
+              ],
+              "screen_name": "AliciaDCrumpton",
+              "id_str": "1500407036"
+            }
+          ]
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 548878569364287488,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 225
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 398
+                },
+                "large": {
+                  "w": 960,
+                  "resize": "fit",
+                  "h": 638
+                }
+              },
+              "source_user_id": 1500407036,
+              "media_url": "http://pbs.twimg.com/media/B0eg4DrCMAAl-IL.jpg",
+              "display_url": "pic.twitter.com/AKwoNzkj0V",
+              "type": "photo",
+              "url": "http://t.co/AKwoNzkj0V",
+              "id": 524564766530875392,
+              "media_url_https": "https://pbs.twimg.com/media/B0eg4DrCMAAl-IL.jpg",
+              "expanded_url": "http://twitter.com/AliciaDCrumpton/status/524564770683637761/photo/1",
+              "source_user_id_str": "1500407036",
+              "indices": [
+                39,
+                61
+              ],
+              "source_status_id_str": "524564770683637761",
+              "source_status_id": 524564770683637761,
+              "id_str": "524564766530875392"
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 2,
+        "created_at": "Sat Dec 27 16:30:23 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 4,
+        "id_str": "548878569364287488",
+        "place": null,
+        "user": {
+          "id": 72621735,
+          "id_str": "72621735"
+        },
+        "coordinates": null
+      },
+      "546589389972070400": {
+        "contributors": null,
+        "text": "Urban bird watching. Beautiful piece by L7M. See more like this: http://t.co/ueqSzOAVj9  #graffiti #streetart http://t.co/7evVzIFqNo",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [
+            {
+              "expanded_url": "http://buff.ly/1ArGb8D",
+              "indices": [
+                65,
+                87
+              ],
+              "display_url": "buff.ly/1ArGb8D",
+              "url": "http://t.co/ueqSzOAVj9"
+            }
+          ],
+          "hashtags": [
+            {
+              "text": "graffiti",
+              "indices": [
+                89,
+                98
+              ]
+            },
+            {
+              "text": "streetart",
+              "indices": [
+                99,
+                109
+              ]
+            }
+          ],
+          "media": [
+            {
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 195
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "large": {
+                  "w": 915,
+                  "resize": "fit",
+                  "h": 525
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 344
+                }
+              },
+              "source_user_id": 2851178843,
+              "media_url": "http://pbs.twimg.com/media/B29Qd1oIUAATayy.jpg",
+              "display_url": "pic.twitter.com/7evVzIFqNo",
+              "type": "photo",
+              "url": "http://t.co/7evVzIFqNo",
+              "id": 535735354222202880,
+              "media_url_https": "https://pbs.twimg.com/media/B29Qd1oIUAATayy.jpg",
+              "expanded_url": "http://twitter.com/niumestreetart/status/535735354314477568/photo/1",
+              "source_user_id_str": "2851178843",
+              "indices": [
+                110,
+                132
+              ],
+              "source_status_id_str": "535735354314477568",
+              "source_status_id": 535735354314477568,
+              "id_str": "535735354222202880"
+            }
+          ],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 546589389972070400,
+        "extended_entities": {
+          "media": [
+            {
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 195
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "large": {
+                  "w": 915,
+                  "resize": "fit",
+                  "h": 525
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 344
+                }
+              },
+              "source_user_id": 2851178843,
+              "media_url": "http://pbs.twimg.com/media/B29Qd1oIUAATayy.jpg",
+              "display_url": "pic.twitter.com/7evVzIFqNo",
+              "type": "photo",
+              "url": "http://t.co/7evVzIFqNo",
+              "id": 535735354222202880,
+              "media_url_https": "https://pbs.twimg.com/media/B29Qd1oIUAATayy.jpg",
+              "expanded_url": "http://twitter.com/niumestreetart/status/535735354314477568/photo/1",
+              "source_user_id_str": "2851178843",
+              "indices": [
+                110,
+                132
+              ],
+              "source_status_id_str": "535735354314477568",
+              "source_status_id": 535735354314477568,
+              "id_str": "535735354222202880"
+            }
+          ]
+        },
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 9,
+        "created_at": "Sun Dec 21 08:54:00 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 8,
+        "id_str": "546589389972070400",
+        "place": null,
+        "user": {
+          "id": 2851178843,
+          "id_str": "2851178843"
+        },
+        "coordinates": null
+      },
+      "548877503293837312": {
+        "contributors": null,
+        "text": "\"@miina_80: Surreal Murals by Etam Cru Turn Drab Facades into Eye Popping Imagery http://t.co/TXhl7DbgiG http://t.co/OLxsS74kau\" #graffiti",
+        "geo": null,
+        "retweeted": false,
+        "in_reply_to_screen_name": null,
+        "possibly_sensitive": false,
+        "truncated": false,
+        "lang": "en",
+        "entities": {
+          "symbols": [],
+          "urls": [
+            {
+              "expanded_url": "http://street-artists.newsin.tk/a/2d6539a0-7d03-11e4-86b8-39fc5952f5a8",
+              "indices": [
+                82,
+                104
+              ],
+              "display_url": "street-artists.newsin.tk/a/2d6539a0-7d0…",
+              "url": "http://t.co/TXhl7DbgiG"
+            },
+            {
+              "expanded_url": "http://twitter.com/miina_80/status/546175306261073920/photo/1",
+              "indices": [
+                105,
+                127
+              ],
+              "display_url": "pic.twitter.com/OLxsS74kau",
+              "url": "http://t.co/OLxsS74kau"
+            }
+          ],
+          "hashtags": [
+            {
+              "text": "graffiti",
+              "indices": [
+                129,
+                138
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "id": 2926417125,
+              "name": "Street Artists News",
+              "indices": [
+                1,
+                10
+              ],
+              "screen_name": "miina_80",
+              "id_str": "2926417125"
+            }
+          ]
+        },
+        "in_reply_to_status_id_str": null,
+        "id": 548877503293837312,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_user_id_str": null,
+        "favorited": false,
+        "in_reply_to_status_id": null,
+        "retweet_count": 2,
+        "created_at": "Sat Dec 27 16:26:09 +0000 2014",
+        "in_reply_to_user_id": null,
+        "favorite_count": 3,
+        "id_str": "548877503293837312",
+        "place": null,
+        "user": {
+          "id": 72621735,
+          "id_str": "72621735"
+        },
+        "coordinates": null
+      }
+    }
+  }
+}
