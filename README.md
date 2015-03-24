@@ -1,31 +1,29 @@
-This is a very small standalone web server written in Java. It is packaged in a jar file and may also be used within your own Java programs. It is a fork of the "Java Mini Web Server" (http://www.jibble.org/miniwebserver) written by Paul Mutton. 
+## Collections API Web Server
 
-I have made some small but useful enhancements, like the hability to easily stop the webserver if you have it embedded in your project, as well to change its root dir without stopping the server. 
+This is a very small standalone web server written in Java. It shows an end-to-end example of reading a Twitter Collection ID, querying the Collection API and displaying the tweets on a page with widgets.js
 
-## Starting the Web Server (standalone mode)
-The web server is packaged in a single small jar file for ease of use. You will need Java runtime version 1.5 or later installed in order to execute the web server.
+<img src="screenshot.png" style="width: 70%;"/>
 
-To execute the web server, issue the following command:
+This is a fork of the "Simple Webserver" (https://github.com/rafaelsteil/simple-webserver), which in turn is a fork of "Java Mini Web Server" (http://www.jibble.org/miniwebserver).
 
-    java -jar SimpleWebServer.jar
+### Starting the Web Server 
 
-This will start the web server on the default port (80) and your web root directory will be the current directory. You should now be able to request web pages from the web server with your web browser.
+The simplest way to run this sample is from the command line, as such:
 
-## Embedding it in your program
-The package may also be used as a Java HTTP Web Server Library. Simply add the jar file to your classpath and import org.jibble.simplewebserver.*;. You can then construct a new SimpleWebServer object by supplying two arguments to its constructor:
+	java -classpath 'lib/*:bin' org.jibble.simplewebserver.SimpleWebServer
+	
+Once the server is running, open a browser to:
 
-    SimpleWebServer server = new SimpleWebServer(new File("./"), 80);
+	http://localhost:1024/collection/custom-522875858994749443
+	
+### Development
 
-This starts up the web server within your program so that users may request web pages.
+This sample uses Twitter Collections, which is in Beta and requires additional app permissions. This code ships with default auth tokens, so that developers can being developing and testing immediately. 
 
-## Features
-Considering the fact that this very small web server is less than 4kb in size, it still has a fair few useful features:-
+If you choose to use this or a derivation for production purposes, contact Twitter directly to enable your app with the Collections Beta permissions. 
+ 
+Also, please note that this is only a demonstration of the Collections API and widgets.js. Deployed to production at scale, it will hit Twitter API rate limits. The end solution should include server-side caching of collections/statuses.
 
-* Very small executable.
-* Can deal with multiple requests at the same time.
-* Support for a small variety of content-types (images, HTML, text, etc).
-* Directory browsing features.
-* Index page retrieval without specifying full path.
+### Licensing
 
-## Licensing
-This software product is OSI Certified Open Source Software, available under the GNU General Public License (GPL). If you need a commercial license, please contact Paul Mutton at http://www.jibble.org/licenses
+Please see the LICENSE.txt file.
